@@ -3,11 +3,12 @@
 
 ## Información del Estudiante
 
-- **Nombre:** [Tu nombre completo aquí]
-- **Carrera:** [Tu carrera]
-- **Fecha de inicio:** [Fecha]
-
+- **Nombre:** [Mateo Lara]
+- **Carrera:** [Ingeniería Informática]
+- **Fecha de inicio:** []/
+/
 ---
+
 
 Este proyecto es una aplicación móvil desarrollada con Ionic y React que implementa un cliente de GitHub. A través de una serie de laboratorios, construirás gradualmente las funcionalidades para gestionar repositorios de GitHub.
 
